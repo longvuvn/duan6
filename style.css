@@ -1,0 +1,16 @@
+.avatar{
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    border: 1px solid #b4b4b4;
+    margin-left: -60px;
+}
+
+.avatar:first-child{
+    margin: 0;
+}
+
+.conteiner{
+    background-color: blueviolet;
+    padding: 40px;
+}
